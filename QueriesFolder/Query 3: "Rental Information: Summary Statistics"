@@ -1,4 +1,4 @@
-SQL Query for: "Rental Information: Summary Statistics"
+SQL Query: "Rental Information: Summary Statistics"
 
 "SELECT MIN(rental_rate) AS min_rent,
        MAX(rental_rate) AS max_rent,
