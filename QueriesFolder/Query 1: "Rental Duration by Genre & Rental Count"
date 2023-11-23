@@ -1,4 +1,4 @@
-SQL Query for: "Rental Duration by Genre & Rental Count"
+SQL Query: "Rental Duration by Genre & Rental Count"
 
 "SELECT name AS name_of_genre, COUNT(A.rental_id) AS total_number_of_rentals, avg(rental_duration) AS average_rental_duration -- 'name' from film category renamed 'name_of_genre'
 FROM rental A
