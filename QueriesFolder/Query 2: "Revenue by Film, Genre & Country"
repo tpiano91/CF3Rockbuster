@@ -1,4 +1,4 @@
-SQL Query for: "Revenue by Film, Genre & Country"
+SQL Query: "Revenue by Film, Genre & Country"
 
 "SELECT DISTINCT total_revenue.film_id, film.title,SUM(total_revenue.amount) AS total_revenue_per_film, total_revenue.name AS name_of_genre
 FROM film
