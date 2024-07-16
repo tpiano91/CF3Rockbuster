@@ -6,6 +6,26 @@
 
 ##### The SQL queries used for this project can be found in the "Queries" folder
 
+## Key Questions and Objectives
+###### Which movies contributed the most/least to revenue gain?
+###### What was the average rental duration for all videos?
+###### Which countries are Rockbuster customers based in?
+###### Where are customers with a high lifetime value based?
+###### Do sales figures vary between geographic regions?
+
+## Insights
+###### "Sports" genre ranks 1st in both revenue earned and number of films in Rockbuster's inventory.
+###### "Sci-Fi" genre ranks 2nd in revenue earned, despite ranking 9th in total number of films in inventory.
+###### "Foreign" and "Family" genres rank 2nd and 3rd in total number of films, respectively, but only rank 8th and 10th in total revenue earned.
+###### Films across all genres rent for an average of 4.5-5.5 days, with films in the "New" genre having the lowest average of number of days rented
+###### Countries with high populations tend to have higher number of Rockbuster customers (the top 3 countries by population are also have the most Rockbuster customers)
+
+## Recommendations
+###### Increase the number of "Sci-Fi" and "Sports" films in inventory; decrease the number of "Foreign" and "Family" genres.
+###### Conduct further research to determine if "Sci-Fi" films should be rented at a higher price and if "Foriegn" and "Family" films should be rented at a lower price.
+###### Offer shorter rental periods for "New" films, particularly for films that have recently left theaters; further research can determine the most effective way to market this rental option
+###### Emphasize marketing strategies in countries with high populations; further research is needed to see if other factors besides population determine Rockbuster's popularity in a country/region
+
 ## Data
 ##### The dataset contains the following data tables
 ###### Payment
