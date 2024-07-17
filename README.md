@@ -22,7 +22,7 @@
 
 ## Recommendations
 ###### Increase the number of "Sci-Fi" and "Sports" films in inventory; decrease the number of "Foreign" and "Family" genres.
-###### Conduct further research to determine if "Sci-Fi" films should be rented at a higher price and if "Foriegn" and "Family" films should be rented at a lower price.
+###### Conduct further research to determine if "Sci-Fi" films should be rented at a higher price and if "Foreign" and "Family" films should be rented at a lower price.
 ###### Offer shorter rental periods for "New" films, particularly for films that have recently left theaters; further research can determine the most effective way to market this rental option
 ###### Emphasize marketing strategies in countries with high populations; further research is needed to see if other factors besides population determine Rockbuster's popularity in a country/region
 
