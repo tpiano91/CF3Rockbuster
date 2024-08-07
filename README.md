@@ -43,7 +43,7 @@
 
 ## What I Learned:
 ##### 1. Through this project, I practiced making various SQL queries, using different techniques (e.g. Subqueries, CTE’s and Joins), in order to observe and wrangle the data as needed.
-##### 2. learned about different data structures and types of schemas and became comfortable with visualizing how different data frames within a dataset were linked together with keys.
+##### 2. I learned about different data structures and types of schemas and became comfortable with visualizing how different data frames within a dataset were linked together with keys.
 
 ## Data
 ##### The dataset contains the following data tables
