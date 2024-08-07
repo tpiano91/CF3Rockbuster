@@ -15,11 +15,12 @@
 
 ## Insights
 
-![Revenue by Genre](images/revenue_by_genre.png)
-
 ###### 1. "Sports" genre ranks 1st in both revenue earned and number of films in Rockbuster's inventory.
 ###### 2. "Sci-Fi" genre ranks 2nd in revenue earned, despite ranking 9th in total number of films in inventory.
 ###### 3. "Foreign" and "Family" genres rank 2nd and 3rd in total number of films, respectively, but only rank 8th and 10th in total revenue earned.
+
+![Revenue by Genre](images/revenue_by_genre.png)
+![Number of Films by Genre](images/film_count_by_genre.png)
 
 ###### 4. Films across all genres rent for an average of 4.5-5.5 days, with films in the "New" genre having the lowest average of number of days rented
 
