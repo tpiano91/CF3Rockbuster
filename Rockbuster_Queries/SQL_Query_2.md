@@ -23,7 +23,7 @@ GROUP BY
     D.title, 
     F.name
 ORDER BY 
-    ""total_revenue_per_film"" DESC) AS total_revenue -- subquery renamed total_revenue 
+    "total_revenue_per_film" DESC) AS total_revenue -- subquery renamed total_revenue 
     ON total_revenue.film_ID = film.film_ID
 GROUP BY 
     total_revenue.film_id, 
