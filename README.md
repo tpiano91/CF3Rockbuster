@@ -14,7 +14,7 @@
 ###### Do sales figures vary between geographic regions?
 
 ## Insights
-(/Users/tristansavella/Downloads/Total Revenue by Movie Genre.pdf)
+![Total Revenue by Movie Genre](/Users/tristansavella/Downloads/Total Revenue by Movie Genre.png)
 ###### "Sports" genre ranks 1st in both revenue earned and number of films in Rockbuster's inventory.
 ###### "Sci-Fi" genre ranks 2nd in revenue earned, despite ranking 9th in total number of films in inventory.
 ###### "Foreign" and "Family" genres rank 2nd and 3rd in total number of films, respectively, but only rank 8th and 10th in total revenue earned.
