@@ -1,6 +1,7 @@
 # "Revenue by Film, Genre & Country"
 
-``` SQL SELECT DISTINCT total_revenue.film_id, film.title,SUM(total_revenue.amount) AS total_revenue_per_film, total_revenue.name AS name_of_genre
+``` sql 
+SELECT DISTINCT total_revenue.film_id, film.title,SUM(total_revenue.amount) AS total_revenue_per_film, total_revenue.name AS name_of_genre
 FROM film
 JOIN
 (SELECT A.payment_id, A.rental_id, A.amount, D.film_id, D.title, SUM(A.amount) AS total_revenue_per_film, F.name
