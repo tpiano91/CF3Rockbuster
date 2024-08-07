@@ -1,6 +1,7 @@
 # "Rental Information: Summary Statistics"
 
-``` SQL SELECT MIN(rental_rate) AS min_rent,
+``` SQL 
+SELECT MIN(rental_rate) AS min_rent,
 MAX(rental_rate) AS max_rent,
 AVG(rental_rate) AS avg_rent,
 MIN(release_year)AS min_release_year,
