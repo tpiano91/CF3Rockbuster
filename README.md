@@ -14,9 +14,13 @@
 ###### Do sales figures vary between geographic regions?
 
 ## Insights
+
 ###### "Sports" genre ranks 1st in both revenue earned and number of films in Rockbuster's inventory.
 ###### "Sci-Fi" genre ranks 2nd in revenue earned, despite ranking 9th in total number of films in inventory.
 ###### "Foreign" and "Family" genres rank 2nd and 3rd in total number of films, respectively, but only rank 8th and 10th in total revenue earned.
+
+[View the Tableau Graph for Average Amount Paid to Rent Each Film](https://public.tableau.com/views/Task3_10Updated/TotalRevenuebyMovieGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ###### Films across all genres rent for an average of 4.5-5.5 days, with films in the "New" genre having the lowest average of number of days rented
 ###### Countries with high populations tend to have higher number of Rockbuster customers (the top 3 countries by population are also have the most Rockbuster customers)
 
