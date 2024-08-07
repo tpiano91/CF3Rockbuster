@@ -1,6 +1,6 @@
 # "Rental Information: Summary Statistics"
 
-``` "SELECT MIN(rental_rate) AS min_rent,
+``` SELECT MIN(rental_rate) AS min_rent,
        MAX(rental_rate) AS max_rent,
        AVG(rental_rate) AS avg_rent,
 	   MIN(release_year)AS min_release_year,
@@ -15,5 +15,5 @@
 	   MIN(replacement_cost) AS min_replacement_cost,
        MAX(replacement_cost) AS max_replacement_cost,
        AVG(replacement_cost) AS avg_replacement_cost
-FROM film"
+FROM film
 ```
