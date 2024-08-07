@@ -19,6 +19,7 @@
 ###### 2. "Sci-Fi" genre ranks 2nd in revenue earned, despite ranking 9th in total number of films in inventory.
 ###### 3. "Foreign" and "Family" genres rank 2nd and 3rd in total number of films, respectively, but only rank 8th and 10th in total revenue earned.
 
+![Revenue by Genre](images/revenue_by_genre.png)
 ###### [View the Tableau Graph for Total Revenue by Movie Genre](https://public.tableau.com/views/Task3_10Updated/TotalRevenuebyMovieGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ###### [View the Tableau Graph for Number of Films by Movie Genre](https://public.tableau.com/views/Task3_10Updated/No_ofFilmsperGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
