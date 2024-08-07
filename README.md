@@ -42,8 +42,8 @@
 ##### 4. Emphasize marketing strategies in countries with high populations; further research is needed to see if other factors besides population determine Rockbuster's popularity in a country/region
 
 ## What I Learned:
-##### ● Through this project, I practiced making various SQL queries, using different techniques (e.g. Subqueries, CTE’s and Joins), in order to observe and wrangle the data as needed.
-##### ● I learned about different data structures and types of schemas and became comfortable with visualizing how different data frames within a dataset were linked together with keys.
+##### 1. Through this project, I practiced making various SQL queries, using different techniques (e.g. Subqueries, CTE’s and Joins), in order to observe and wrangle the data as needed.
+##### 2. learned about different data structures and types of schemas and became comfortable with visualizing how different data frames within a dataset were linked together with keys.
 
 ## Data
 ##### The dataset contains the following data tables
