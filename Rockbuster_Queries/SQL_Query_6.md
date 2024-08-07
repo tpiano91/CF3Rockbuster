@@ -1,6 +1,6 @@
 # "Average Amount Customers Paid to Rent Each Film"
 
-``` SELECT D.title, avg(A.amount), F.name AS category_name
+``` SQL SELECT D.title, avg(A.amount), F.name AS category_name
 FROM payment A
 INNER JOIN rental B ON A.rental_id = B.rental_id
 INNER JOIN inventory C ON B.inventory_id = C.inventory_id

@@ -1,6 +1,6 @@
 # "Average Amount Paid per Rental by Country"
 
-``` SELECT DISTINCT A.country, avg(E.amount) AS avg_amt_paid
+``` SQL SELECT DISTINCT A.country, avg(E.amount) AS avg_amt_paid
 FROM Country A
 INNER JOIN city B ON A.country_id = B.country_id
 INNER JOIN address C ON B.city_id = C.city_id

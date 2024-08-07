@@ -1,6 +1,6 @@
 # "Top Customers by Revenue"
 
-``` SELECT DISTINCT top_customers.customer_id, 
+``` SQL SELECT DISTINCT top_customers.customer_id, 
 	top_customers.first_name, 
 	top_customers.last_name, 
 	SUM(top_customers.total_amount_paid),
