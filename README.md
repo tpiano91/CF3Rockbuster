@@ -24,7 +24,11 @@
 
 ###### 4. Films across all genres rent for an average of 4.5-5.5 days, with films in the "New" genre having the lowest average of number of days rented
 
+![Film Genre by Rental Duration](images/genre_by_rental_duration.png)
+
 ###### 5. Countries with high populations tend to have higher number of Rockbuster customers (the top 3 countries by population are also have the most Rockbuster customers)
+
+![Where are the Customers Located?](images/customer_map.png)
 
 ###### [View the Tableau Graph for Total Revenue by Movie Genre](https://public.tableau.com/views/Task3_10Updated/TotalRevenuebyMovieGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ###### [View the Tableau Graph for Number of Films by Movie Genre](https://public.tableau.com/views/Task3_10Updated/No_ofFilmsperGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
