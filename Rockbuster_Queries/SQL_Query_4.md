@@ -1,12 +1,13 @@
 # Top Customers by Revenue
 
 ```sql
-SELECT DISTINCT top_customers.customer_id, 
-       top_customers.first_name, 
-       top_customers.last_name, 
-       SUM(top_customers.total_amount_paid),
-       top_customers.country,
-       top_customers.city
+SELECT DISTINCT 
+    top_customers.customer_id, 
+    top_customers.first_name, 
+    top_customers.last_name, 
+    SUM(top_customers.total_amount_paid),
+    top_customers.country,
+    top_customers.city
 FROM
     (SELECT A.customer_id, B.first_name, B.last_name, E.country, D.city, SUM(A.amount) AS total_amount_paid
      FROM payment A
